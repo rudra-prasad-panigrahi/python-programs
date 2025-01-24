@@ -3,4 +3,4 @@ def palindrom(n):
                 return True
         return False
 
-print(palindrom(int(input())))
+print(palindrom(int(input("Enter a number to check if it is a palindrom: "))))
